@@ -1,4 +1,4 @@
-# [![Type-Anim by Ishaan Sharma](https://typeanim.herokuapp.com?font=Happy+Monkey&size=40&pause=9000&color=F7F7F7&center=false&width=900&color=0003F7&height=70&lines=Hey%2C+it's+nice+to+meet+u!;Oh%2C+let+me+introduce+myself+%F0%9F%91%8B;)]
+# ![Type-Anim by Ishaan Sharma](https://typeanim.herokuapp.com?font=Happy+Monkey&size=40&pause=9000&color=F7F7F7&center=false&width=900&color=0003F7&height=70&lines=Hey%2C+it's+nice+to+meet+u!;Oh%2C+let+me+introduce+myself+%F0%9F%91%8B;)
 
 ```bash
 ┌──()-[~]
