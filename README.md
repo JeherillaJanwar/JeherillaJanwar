@@ -24,7 +24,7 @@ Hello, World!
 
 
 ### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JeherillaJanwar&include_all_commits=true&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=true&border_radius=21&icon_color=0000FF" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JeherillaJanwar&include_all_commits=true&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=true&border_radius=20&icon_color=0000FF" align="center" /></div>
 
 
 ---
