@@ -42,11 +42,13 @@ Earth 🌎
 
 >
 
-
+<a href="https://github.com/JeherillaJanwar/type-anim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=type-anim&theme=buefy" />
+</a>
   
   >
   
-  Wanna see more? Go to my [Portfolio](https://jeherillajanwar.github.io/328069/pages/projects.html)
+  Wanna see more? Go to my [Portfolio's Web Projects page](https://jeherillajanwar.github.io/328069/pages/projects.html)
 </div>
 
 
