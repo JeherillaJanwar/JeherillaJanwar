@@ -2,9 +2,10 @@
 
 ```bash
 ┌──()-[~]
-└─$ echo "Hello, World!" && whoami && askme
+└─$ echo "Hello, World!" && whoami && whereami
 Hello, World!
 𝙄𝙨𝙝𝙖𝙖𝙣 𝙎𝙝𝙖𝙧𝙢𝙖
+Earth 🌎
 ``` 
 
 > My [Portfolio](https://jeherillajanwar.github.io/328069/) | 🌐 
@@ -30,7 +31,7 @@ Hello, World!
 
 ---
 
-### Some Repos
+### Some of my work
 <div align="center">
 <a href="https://github.com/JeherillaJanwar/328069">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=328069&theme=buefy&border=false" />
@@ -41,9 +42,11 @@ Hello, World!
 
 >
 
-<a href="https://github.com/JeherillaJanwar/type-anim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=type-anim&theme=buefy" />
-</a>
+
+  
+  >
+  
+  Wanna see more? Go to my [Portfolio](https://jeherillajanwar.github.io/328069/pages/projects.html)
 </div>
 
 
