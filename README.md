@@ -2,7 +2,7 @@
 
 ```bash
 ┌──()-[~]
-└─$ echo "Hello, World!" && whoami
+└─$ echo "Hello, World!" && whoami && askme
 Hello, World!
 𝙄𝙨𝙝𝙖𝙖𝙣 𝙎𝙝𝙖𝙧𝙢𝙖
 ``` 
@@ -37,6 +37,12 @@ Hello, World!
 </a>
 <a href="https://github.com/JeherillaJanwar/Fighter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=Fighter&theme=buefy" />
+</a>
+
+>
+
+<a href="https://github.com/JeherillaJanwar/type-anim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=type-anim&theme=buefy" />
 </a>
 </div>
 
