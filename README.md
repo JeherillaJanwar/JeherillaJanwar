@@ -24,8 +24,20 @@ Hello, World!
 
 
 ### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JeherillaJanwar&include_all_commits=true&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=true&border_radius=20&icon_color=0000FF" align="center" /></div>
 
+| <a href="https://github.com/JeherillaJanwar/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeherillaJanwar&include_all_commits=true&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=false&border_radius=20&icon_color=0000FF" alt="Ishaan's github stats" /></a> | <a href="https://github.com/JeherillaJanwar/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeherillaJanwar&layout=compact&theme=buefy&include_all_commits=true&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=true&border_radius=20&icon_color=0000FF" /></a> |
+| ------------- | ------------- |
+
+---
+
+### Some Repos
+
+<a href="https://github.com/JeherillaJanwar/328069">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=328069&theme=buefy" />
+</a>
+<a href="https://github.com/JeherillaJanwar/Fighter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=Fighter&theme=buefy" />
+</a>
 
 ---
 
