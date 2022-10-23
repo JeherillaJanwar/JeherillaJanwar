@@ -115,10 +115,14 @@ Hello, World!
   <summary>Quick Links 🔗</summary>
   <br>
   <details>
-  <summary>Discord Username & ID</summary>
+  <summary>Discord: Username & ID</summary>
 
 ```js
-JeherillaJanwar#0389 | 982638868459290644
+JeherillaJanwar#0389 
+```
+
+```js
+982638868459290644
 ```
   </details>
 
