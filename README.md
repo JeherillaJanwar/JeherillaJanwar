@@ -1,11 +1,6 @@
 # ![Type-Anim by Ishaan Sharma](https://typeanim.herokuapp.com?font=Happy+Monkey&size=40&pause=9000&color=F7F7F7&center=false&width=900&color=0003F7&height=70&lines=Hey%2C+it's+nice+to+meet+u!;Oh%2C+let+me+introduce+myself+%F0%9F%91%8B;)
 
-```bash
-┌──()-[~]
-└─$ echo "Hello, World!" && whoami
-Hello, World!
-𝙄𝙨𝙝𝙖𝙖𝙣 𝙎𝙝𝙖𝙧𝙢𝙖
-``` 
+<img src="https://media.discordapp.net/attachments/1028344414948573294/1037898796887191592/Screenshot_2022-11-03_9.17.50_PM.png?width=1025&height=338">
 
 > My [Portfolio](https://jeherillajanwar.github.io/328069/) | 🌐 
 >
