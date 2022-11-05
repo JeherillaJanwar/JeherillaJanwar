@@ -25,7 +25,7 @@
 
 ---
 
-### Some of my work:-
+### Some of my work:- ↓↓
 <div align="center">
 <a href="https://github.com/JeherillaJanwar/328069">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=AIchess&theme=buefy&border=false" />
