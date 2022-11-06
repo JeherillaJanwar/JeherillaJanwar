@@ -100,9 +100,9 @@
 ### Contributions
 
 <p align="center">
-  <img href="https://gtihub.com/JeherillaJanwar/" src="https://activity-graph.herokuapp.com/graph?username=JeherillaJanwar&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
+  <img src="https://activity-graph.herokuapp.com/graph?username=JeherillaJanwar&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
   
-  <img href="https://gtihub.com/JeherillaJanwar/" src="https://github-readme-streak-stats.herokuapp.com/?user=JeherillaJanwar&theme=radical&hide_border=true&border_radius=25">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeherillaJanwar&theme=radical&hide_border=true&border_radius=25">
 </p>
 
 
