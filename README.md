@@ -20,7 +20,7 @@
 
 ### Github Stats  
 
-| <a href="https://github.com/JeherillaJanwar/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeherillaJanwar&include_all_commits=false&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=false&border_radius=20&icon_color=0000FF" alt="Ishaan's github stats" /></a> | <a href="https://github.com/JeherillaJanwar/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeherillaJanwar&layout=compact&theme=buefy&include_all_commits=true&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=true&border_radius=20" /></a> |
+| <a href="https://github.com/JeherillaJanwar/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeherillaJanwar&include_all_commits=false&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=false&border_radius=20&icon_color=0202ff" alt="Ishaan's github stats" /></a> | <a href="https://github.com/JeherillaJanwar/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeherillaJanwar&layout=compact&theme=buefy&include_all_commits=true&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=true&border_radius=21" /></a> |
 | ------------- | ------------- |
 
 ---
@@ -28,16 +28,16 @@
 ### Some of my work:- ↓↓
 <div align="center">
 <a href="https://github.com/JeherillaJanwar/328069">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=AIchess&theme=buefy&border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=AIchess&theme=buefy&border=true" />
 </a>
 <a href="https://github.com/JeherillaJanwar/Fighter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=Fighter&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=Fighter&theme=buefy&border=false" />
 </a>
 
 >
 
 <a href="https://github.com/JeherillaJanwar/type-anim/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=type-anim&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=type-anim&theme=buefy&border=false" />
 </a>
   
   >
