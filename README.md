@@ -36,7 +36,7 @@
 
 >
 
-<a href="https://github.com/JeherillaJanwar/type-anim/">
+<a href="https://github.com/JeherillaJanwar/StrangerChat/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=StrangerChat&theme=buefy&border=false" />
 </a>
   
