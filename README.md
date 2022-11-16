@@ -20,7 +20,7 @@
 
 ### Github Stats  
 
-| <a href="https://github.com/JeherillaJanwar/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeherillaJanwar&include_all_commits=true&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=false&border_radius=20&icon_color=0202ff" alt="Ishaan's github stats" /></a> | <a href="https://github.com/JeherillaJanwar/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeherillaJanwar&layout=compact&theme=buefy&include_all_commits=true&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=true&border_radius=21" /></a> |
+| <a href="https://github.com/JeherillaJanwar/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeherillaJanwar&include_all_commits=true&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=false&border_radius=20&icon_color=0101ff" alt="Ishaan's github stats" /></a> | <a href="https://github.com/JeherillaJanwar/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeherillaJanwar&layout=compact&theme=buefy&include_all_commits=true&bg_color=30,FFFF00,FF0000,0000FF&title_color=h&text_color=fff&show_icons=true&count_private=true&border=true&border_radius=21" /></a> |
 | ------------- | ------------- |
 
 ---
