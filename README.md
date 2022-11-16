@@ -37,7 +37,7 @@
 >
 
 <a href="https://github.com/JeherillaJanwar/type-anim/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=type-anim&theme=buefy&border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=StrangerChat&theme=buefy&border=false" />
 </a>
   
   >
