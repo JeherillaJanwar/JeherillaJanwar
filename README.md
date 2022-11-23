@@ -153,8 +153,17 @@ https://www.chess.com/member/jeherillajanwar_1
   </details>
   <details>
   <summary>Portfolio</summary>
-  <code>https://cutt.ly/328069i/</code>
+  <a href="https://cutt.ly/328069i/"><code>https://cutt.ly/328069i/</code></a>
+  </details>
   
+  <details>
+  <summary>Google Developer Profile</summary>
+  <a href="https://g.dev/JeherillaJanwar"><code>https://g.dev/JeherillaJanwar/</code>
+  </details>
+    
+  <details>
+  <summary>StackOverFlow Profile</summary>
+  <a href="https://stackoverflow.com/users/20583513/"><code>https://stackoverflow.com/users/20583513/</code>
   </details>
 </details>
 
