@@ -116,7 +116,7 @@
   <summary>Discord: Username & ID</summary>
 
 ```js
-JeherillaJanwar#0389 
+!JeherillaJanwar!#0389 
 ```
 
 ```js
