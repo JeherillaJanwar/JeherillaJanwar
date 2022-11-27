@@ -27,7 +27,7 @@
 
 ### Some of my work:- ↓↓
 <div align="center">
-<a href="https://github.com/JeherillaJanwar/328069">
+<a href="https://github.com/JeherillaJanwar/AIchess">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=AIchess&theme=buefy&border=true" />
 </a>
 <a href="https://github.com/JeherillaJanwar/Fighter">
