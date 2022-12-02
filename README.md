@@ -1,4 +1,11 @@
-# ![Typing Animation](https://typeanim.herokuapp.com?font=Happy+Monkey&size=40&pause=9000&color=F7F7F7&center=false&width=900&color=0003F7&height=70&lines=Hey%2C+it's+nice+to+meet+u!;Oh%2C+let+me+introduce+myself+%F0%9F%91%8B;)
+<h1>Hey, It's nice to meet you...</h1>
+
+```bash
+┌──()-[~]
+└─$ echo "Hello, World!" && whoami
+Hello, World!
+𝙄𝙨𝙝𝙖𝙖𝙣 𝙎𝙝𝙖𝙧𝙢𝙖
+``` 
 
 <a href="https://cutt.ly/328069i/"><img src="https://media.discordapp.net/attachments/1028344414948573294/1038206729441255504/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032383334343431343934383537333239342f313033373839383739363838373139313539322f53637265656e73686f745f323032322d31312d30335f392e31372e35305f504d2e706e673f7769.png"></a>
 
@@ -95,16 +102,6 @@
 <br />
 <br />
 <br />
-
-
----
-
-### Contributions
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=JeherillaJanwar&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
-</p>
-
 
 
 ---
