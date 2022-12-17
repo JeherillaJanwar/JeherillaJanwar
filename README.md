@@ -164,6 +164,8 @@ https://www.chess.com/member/jeherillajanwar_1
   </details>
 </details>
 
+   <img width="45%" align="right" alt="Github" src="img.svg" />
+
 
 Have a Question or Feedback?? -- [`Ask it Here`](https://jeherillajanwar.github.io/328069/pages/contact.html) or [`Email me`](mailto:askishaan.sh@gmail.com)
 
