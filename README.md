@@ -167,7 +167,7 @@ https://www.chess.com/member/jeherillajanwar_1
    <img width="45%" align="right" alt="Github" src="img.svg" />
 
 
-Have a Question or Feedback?? -- [`Ask it Here`](https://jeherillajanwar.github.io/328069/pages/contact.html) or [`Email me`](mailto:askishaan.sh@gmail.com)
+Have a Question or Feedback?? -- [`Ask it Here`](https://jeherillajanwar.github.io/328069/pages/contact.html) or [`Email`](mailto:askishaan.sh@gmail.com)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ishaan328069"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ishaan328069" /></a></p>
