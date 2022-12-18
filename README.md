@@ -115,20 +115,19 @@ Hello, World!
   <br>
   <details>
   <summary>Discord: Username & ID</summary>
-
+    
+![Discord](https://img.shields.io/discord/1053869961661137036?color=purple&label=My-Discord-Server)
+    
 ```js
 !JeherillaJanwar!#0389 
 ```
 
-```js
-982638868459290644
-```
   </details>
 
   <details>
   <summary>Gmail 📨</summary>
 
-[<img src='https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png' alt='Gmail me' height='40'>](mailto:askishaan.sh@gmail.com)  
+[<img src='https://img.shields.io/badge/gmail-askishaan.sh%40gmail.com-red' alt='Gmail me'>](mailto:askishaan.sh@gmail.com)  
 ```js
 askishaan.sh@gmail.com
 ```
@@ -136,7 +135,7 @@ askishaan.sh@gmail.com
   <details>
   <summary>Twitter 🕊</summary>
 
-[<img src='https://png.pngtree.com/png-clipart/20190903/original/pngtree-twitter-free-button-png-image-png-image_4436094.jpg' alt='My Twitter' height='40'>](https://twitter.com/IshaanS92686259)  
+[<img src='https://img.shields.io/badge/twitter-IshaanS92686259-blue' alt='My Twitter'>](https://twitter.com/IshaanS92686259)  
 ```js
 @IshaanS92686259
 ```
@@ -144,14 +143,18 @@ askishaan.sh@gmail.com
   <details>
   <summary>chess.com account ♟</summary>
     
-[<img src='https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png' alt='Chess.com' height='40'>](https://www.chess.com/member/jeherillajanwar_1/)
+<a href="https://www.chess.com/member/jeherillajanwar_1/">
+  <img src='https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png' alt='Chess.com' height='40'>
+</a>
+   <br>
+    <a href="https://www.chess.com/member/jeherillajanwar_1">
+      <code>https://www.chess.com/member/jeherillajanwar_1</code>
+    </a>
+      
 ```js
 JeherillaJanwar_1
-```
-```js
-https://www.chess.com/member/jeherillajanwar_1  
-```
-  </details>
+```  
+</details>
   <details>
   <summary>Portfolio</summary>
   <a href="https://cutt.ly/328069i/"><code>https://cutt.ly/328069i/</code></a>
