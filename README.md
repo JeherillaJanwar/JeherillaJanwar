@@ -1,4 +1,6 @@
-<h1>Hey, It's nice to meet you...</h1>
+# Hey, It's nice to meet you...
+
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="230">
 
 ```bash
 ┌──()-[~]
@@ -7,7 +9,7 @@ Hello, World!
 𝙄𝙨𝙝𝙖𝙖𝙣 𝙎𝙝𝙖𝙧𝙢𝙖
 ``` 
 
-<a href="https://cutt.ly/328069i/"><img src="https://media.discordapp.net/attachments/1028344414948573294/1038206729441255504/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032383334343431343934383537333239342f313033373839383739363838373139313539322f53637265656e73686f745f323032322d31312d30335f392e31372e35305f504d2e706e673f7769.png"></a>
+<a href="https://cutt.ly/328069i/"><img src="https://media.discordapp.net/attachments/1028344414948573294/1038206729441255504/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032383334343431343934383537333239342f313033373839383739363838373139313539322f53637265656e73686f745f323032322d31312d30335f392e31372e35305f504d2e706e673f7769.png" width="770"></a>
 
 > My [Portfolio](https://jeherillajanwar.github.io/328069/) | 🌐 
 > 
@@ -51,7 +53,7 @@ Hello, World!
   
   >
   
-  Wanna see more? Go to my [Portfolio's Web Projects page](https://jeherillajanwar.github.io/328069/pages/projects.html)
+  Wanna see more? Go to my [Portfolio's Web Projects Page](https://jeherillajanwar.github.io/328069/pages/projects.html)
 </div>
 
 
