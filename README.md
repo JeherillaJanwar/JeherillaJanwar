@@ -12,9 +12,11 @@ Hello, World!
 <a href="https://cutt.ly/328069i/"><img src="https://media.discordapp.net/attachments/1028344414948573294/1038206729441255504/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313032383334343431343934383537333239342f313033373839383739363838373139313539322f53637265656e73686f745f323032322d31312d30335f392e31372e35305f504d2e706e673f7769.png" width="610"></a>
 
 > My [Portfolio](https://jeherillajanwar.github.io/328069/) | 🌐 
+>
+>![status](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fjeherillajanwar.github.io%2F)
 > 
 > ![visitors](https://visitor-badge.glitch.me/badge?page_id=JeherillaJanwar.JeherillaJanwar)
->
+
 
 
 ---
