@@ -136,9 +136,9 @@ askishaan.sh@gmail.com
   <details>
   <summary>Twitter 🕊</summary>
 
-[<img src='https://img.shields.io/badge/twitter-IshaanS92686259-blue' alt='My Twitter'>](https://twitter.com/IshaanS92686259)  
+[<img src='https://img.shields.io/badge/twitter-JeherillaJanwar-blue' alt='My Twitter'>](https://twitter.com/JeherillaJanwar)  
 ```js
-@IshaanS92686259
+@JeherillaJanwar
 ```
   </details>
   <details>
