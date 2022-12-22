@@ -169,9 +169,16 @@ JeherillaJanwar_1
   <details>
   <summary>StackOverFlow Profile</summary>
   <a href="https://stackoverflow.com/users/20583513/"><code>https://stackoverflow.com/users/20583513/</code>
+</details>
+  
+   
+   <details>
+  <summary>LinkedIN</summary>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+   <br>
+  <a href="https://www.linkedin.com/in/jeherillajanwar/"><code>https://www.linkedin.com/in/jeherillajanwar/</code>
   </details>
 </details>
-
    <img width="45%" align="right" alt="Github" src="img.svg" />
 
 
