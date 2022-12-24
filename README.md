@@ -48,8 +48,8 @@ Hello, World!
 
 >
 
-<a href="https://github.com/JeherillaJanwar/StrangerChat/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=StrangerChat&theme=buefy&border=false" />
+<a href="https://jeherillajanwar.github.io/Taxi_Run/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=Taxi_Run&theme=buefy&border=false" />
 </a>
   
   >
