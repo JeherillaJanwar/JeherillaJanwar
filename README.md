@@ -32,7 +32,7 @@ Hello, World!
 
 
 ### Github Stats  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/JeherillaJanwar/">
      <img align="center" height="100%" width="490" src="https://github-readme-stats.vercel.app/api?username=JeherillaJanwar&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&border_radius=21px" alt="Ishaan's github stats" />
 </a>
