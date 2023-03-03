@@ -32,12 +32,14 @@ Hello, World!
 
 
 ### Github Stats  
- <a href="https://github.com/JeherillaJanwar/">
+<p align="center">
+   <a href="https://github.com/JeherillaJanwar/">
      <img align="center" height="100%" width="490" src="https://github-readme-stats.vercel.app/api?username=JeherillaJanwar&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&border_radius=23px" alt="Ishaan's github stats" />
 </a>
 <a href="https://github.com/JeherillaJanwar/">
     <img align="center" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeherillaJanwar&hide_border=true&layout=compact&langs_count=30&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&border_radius=22px" />
     </a>
+</p>
 
 ---
 
@@ -65,67 +67,12 @@ Hello, World!
 ---
 
 
-### Languages and Tools used by me:
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" align="left"/> </a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT" align="left"/> </a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="left"/> </a>
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" align="left"/> </a>
-
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" align="left"/> </a>
-
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" align="left"/> </a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="left"/> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="left"/> </a>
-<br />
-
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" align="left"/> </a>
-
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" align="left"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" align="left"/> </a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="left"/> </a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" align="left"/> </a>
-
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" align="left"/> </a>
-
-
-<a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" align="left"/> </a>
-
-<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="left"/> </a>
-<br />
-
-<a href="https://en.wikipedia.org/wiki/Computer_terminal" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" align="left"/> </a>
-
-<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" align="left"/> </a>
-
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" align="left"/> </a>
-
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="left"/> </a>
-
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="left"/> </a>
-
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" align="left"/> </a>
-<br />
-
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" align="left"/> </a>
-
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" align="left"/> </a>
-
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" align="left"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="left"/> </a>
-
-<br />
-<br />
-<br />
-
+### Some Languages and Tools used by me:
+<p align="center">
+  <a href="https://jeherillajanwar.github.io/">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,materialui,androidstudio,arduino,bash,linux,swift,bootstrap,firebase,gcp,heroku,nodejs,py,github,mongodb,express,atom,vim,azure,discord,gitlab,instagram,jquery,netlify,twitter,vercel,vue,aws,angular" />
+  </a>
+</p>
 
 <hr>
 <hr>
