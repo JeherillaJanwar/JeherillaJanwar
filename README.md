@@ -54,8 +54,8 @@ Hello, World!
 
 >
 
-<a href="https://jeherillajanwar.github.io/Taxi_Run/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=Taxi_Run&theme=tokyonight&border=true" />
+<a href="https://jeherillajanwar.github.io/ZipLink/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=ZipLink&theme=tokyonight&border=true" />
 </a>
   
   >
