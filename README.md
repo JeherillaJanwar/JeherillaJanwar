@@ -1,5 +1,9 @@
 # Hey, It's nice to meet you...
-
+<p align="center">
+  <img src="https://gpvc.arturio.dev/JeherillaJanwar" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/JeherillaJanwar?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/JeherillaJanwar?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="230">
 
 ```bash
@@ -14,8 +18,7 @@ Hello, World!
 > My [Portfolio](https://jeherillajanwar.github.io/328069/) | 🌐 
 >
 >![status](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fjeherillajanwar.github.io%2F)
-> 
-> ![visitors](https://visitor-badge.glitch.me/badge?page_id=JeherillaJanwar.JeherillaJanwar)
+
 
 
 
@@ -30,7 +33,6 @@ Hello, World!
 ---
 
 
-
 ### Github Stats  
 <p align="center">
    <a href="https://github.com/JeherillaJanwar/">
@@ -41,6 +43,7 @@ Hello, World!
     </a>
 </p>
 
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JeherillaJanwar&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 ---
 
 ### Some of my work:- ↓↓
