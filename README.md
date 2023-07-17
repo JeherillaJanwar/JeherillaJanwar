@@ -56,7 +56,7 @@ Hello, World!
 
 >
 
-<a href="https://ziplink.cleverapps.io/">
+<a href="https://github.com/JeherillaJanwar/ZipLink">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeherillaJanwar&repo=ZipLink&theme=tokyonight&border=true" />
 </a>
   
