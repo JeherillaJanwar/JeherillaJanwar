@@ -24,9 +24,9 @@ Hello, World!
 ---
 
 ### Would love for you to check out
-- [Python Projects](https://jeherillajanwar.github.io/PythonProjects/) | 🐍
+- [Opensource Python Projects](https://github.com/JeherillaJanwar?tab=repositories&q=&language=python&sort=) | 🐍
 - [Web Projects](https://jeherillajanwar.github.io/328069/pages/projects.html) | 🕸
-- [Swift Projects](https://jeherillajanwar.github.io/allApps/) | 
+- [Opensource Swift Projects](https://github.com/JeherillaJanwar?tab=repositories&q=&language=swift&sort=) | 
 
 
 ---
