@@ -18,7 +18,7 @@ Hello, World!
 >
 >![status](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fjeherillajanwar.github.io%2F)
 
-
+![](https://visitcount.itsvg.in/api?id=JeherillaJanwar&label=Profile%20Views&pretty=true)
 
 
 ---
@@ -42,7 +42,6 @@ Hello, World!
     </a>
 </p>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JeherillaJanwar&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 ---
 
 ### Some of my work:- ↓↓
