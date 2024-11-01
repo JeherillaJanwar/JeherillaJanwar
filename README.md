@@ -35,11 +35,12 @@ Hello, World!
 ### Github Stats  
 <p align="center">
    <a href="https://github.com/JeherillaJanwar/">
-     <img align="center" height="100%" width="490" src="https://github-readme-stats.vercel.app/api?username=JeherillaJanwar&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&border_radius=23px" alt="Ishaan's github stats" />
+    <img align="center" height="100%" width="490" src="https://github-readme-stats.vercel.app/api?username=JeherillaJanwar&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&bg_color=0,3a6073,16222A&theme=graywhite&border_radius=23px" alt="Ishaan's GitHub stats" />
 </a>
 <a href="https://github.com/JeherillaJanwar/">
-    <img align="center" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeherillaJanwar&hide_border=true&layout=compact&langs_count=30&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&border_radius=22px" />
-    </a>
+    <img align="center" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeherillaJanwar&hide_border=true&layout=compact&langs_count=30&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&bg_color=0,16222A,3a6073&theme=graywhite&border_radius=22px" />
+</a>
+
 </p>
 
 ---
